@@ -1,0 +1,39 @@
+Is clicking on a link in an unsolicited email a safe practice?
+
+Should you share your password with a colleague when asked via email?
+
+Is it advisable to open email attachments from unknown or unexpected sources?
+
+Can you trust a website that asks for your personal information without encryption (https)?
+
+Should you provide sensitive information to a caller claiming to be from IT support without verification?
+
+Is it safe to use the same password across multiple online accounts?
+
+Is it a good idea to connect to public Wi-Fi networks without using a VPN?
+
+Should you ignore software or system updates on your devices?
+
+Is it safe to download and install software from unverified or unofficial sources?
+
+Should you respond to emails claiming you've won a prize or lottery without verification?
+
+Is it wise to share your password in response to a pop-up window asking for it?
+
+Can you trust a USB drive found in a public place, such as a parking lot?
+
+Is it safe to click on a link promising to fix security issues on your computer without prior knowledge?
+
+Should you use easily guessable passwords like "password" or "123456"?
+
+Is it advisable to disable your firewall for better internet speed?
+
+Should you open links or attachments in messages from unknown social media contacts?
+
+Is it safe to provide personal information to websites without checking for HTTPS in the address bar?
+
+Can you trust an email from a friend requesting urgent financial assistance without verifying its authenticity?
+
+Should you click on a link in an email claiming to be from a reputable organization asking for immediate action?
+
+Is it safe to leave your computer unlocked and unattended in a public place?

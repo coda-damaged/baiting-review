@@ -1,0 +1,159 @@
+// ^ <button onclick="chatbot.getReply('yes')">Yes</button>
+// ^ <button onclick="chatbot.getReply('no')">No</button><br>
+> object sadness javascript
+  return theysaidno();
+< object
+
+> object racc javascript
+  return duck();
+< object
+
+//Start
++ start
+- Start the Review?<br>
+^ <button onclick="chatbot.getReply('yes')">Yes</button>
+^ <button onclick="chatbot.getReply('no')">No</button><br>
+
++ no
+- <img src="zkxc7txkcqj71.jpg" width="400"><call>sadness</call>
+
+//question 1
+//Is clicking on a link in an unknown email a safe practice?
++ yes
+- <br>Is clicking on a link in an unknown email a safe?
+^ <button onclick="chatbot.getReply('yes1')">Yes</button>
+^ <button onclick="chatbot.getReply('no1')">No</button><br>
+
+//question 2
+//Should you share your password with a colleague when asked via email?
++ yes1
+- <br>Incorrect<br>
+^ Should you share your password with a colleague when asked via email?<br>
+^ <button onclick="chatbot.getReply('yes2')">Yes</button>
+^ <button onclick="chatbot.getReply('no2')">No</button><br>
+
++ no1
+- <br>Correct<br>
+^ Should you share your password with a colleague when asked via email?<br>
+^ <button onclick="chatbot.getReply('yes2')">Yes</button>
+^ <button onclick="chatbot.getReply('no2')">No</button><br>
+
+
+//question 3
+//Should you open files from an unknown email?
++ yes2
+- <br>Incorrect<br>
+^ Should you open files from an unknown email?<br>
+^ <button onclick="chatbot.getReply('yes3')">Yes</button>
+^ <button onclick="chatbot.getReply('no3')">No</button><br>
+
++ no2
+- <br>Correct<br>
+^ Should you open files from an unknown email?<br>
+^ <button onclick="chatbot.getReply('yes3')">Yes</button>
+^ <button onclick="chatbot.getReply('no3')">No</button><br>
+
+//question 4
+//Can you trust a website that asks for your personal information with encryption (https)?
++ yes3
+- <br>Incorrect<br>
+^ Can you trust a website that asks for your personal information with encryption (https)?<br>
+^ <button onclick="chatbot.getReply('yes4')">Yes</button>
+^ <button onclick="chatbot.getReply('no4')">No</button><br>
+
++ no3
+- <br>Correct<br>
+^ Can you trust a website that asks for your personal information with encryption (https)?<br>
+^ <button onclick="chatbot.getReply('yes4')">Yes</button>
+^ <button onclick="chatbot.getReply('no4')">No</button><br>
+
+//question 5
+//Is it safe to use the same password across multiple online accounts?
++ yes4
+- <br>Correct<br>
+^ Is it safe to use the same password across multiple online accounts?<br>
+^ <button onclick="chatbot.getReply('yes5')">Yes</button>
+^ <button onclick="chatbot.getReply('no5')">No</button><br>
+
++ no4
+- <br>Incorrect<br>
+^ Is it safe to use the same password across multiple online accounts?<br>
+^ <button onclick="chatbot.getReply('yes5')">Yes</button>
+^ <button onclick="chatbot.getReply('no5')">No</button><br>
+
+//question 6
+//Is it safe to download and install software from unverified or unofficial sources?
++ yes5
+- <br>Incorrect<br>
+^ Is it safe to download and install software from unverified or unofficial sources?<br>
+^ <button onclick="chatbot.getReply('yes6')">Yes</button>
+^ <button onclick="chatbot.getReply('no6')">No</button><br>
+
++ no5
+- <br>Correct<br>
+^ Is it safe to download and install software from unverified or unofficial sources?<br>
+^ <button onclick="chatbot.getReply('yes6')">Yes</button>
+^ <button onclick="chatbot.getReply('no6')">No</button><br>
+
+//question 7
+//If you are offered a free prize, shoud you ignore it?
++ yes6
+- <br>Incorrect<br>
+^ If you are offered a free prize, shoud you ignore it?<br>
+^ <button onclick="chatbot.getReply('yes7')">Yes</button>
+^ <button onclick="chatbot.getReply('no7')">No</button><br>
+
++ no6
+- <br>Correct<br>
+^ If you are offered a free prize, shoud you ignore it?<br>
+^ <button onclick="chatbot.getReply('yes7')">Yes</button>
+^ <button onclick="chatbot.getReply('no7')">No</button><br>
+
+//question 8
+//Can you trust a USB drive found in a public place, such as a parking lot or a white van?
++ yes7
+- <br>Correct<br>
+^ Can you trust a USB drive found in a public place, such as a parking lot or a white van?<br>
+^ <button onclick="chatbot.getReply('yes8')">Yes</button>
+^ <button onclick="chatbot.getReply('no8')">No</button><br>
+
++ no7
+- <br>Incorrect<br>
+^ Can you trust a USB drive found in a public place, such as a parking lot or a white van?<br>
+^ <button onclick="chatbot.getReply('yes')">Yes</button>
+^ <button onclick="chatbot.getReply('no8')">No</button><br>
+
+//question 9
+//Should your password be password or 1234?
++ yes8
+- <br>Incorrect<br>
+^ Should your password be password or 1234?<br>
+^ <button onclick="chatbot.getReply('yes9')">Yes</button>
+^ <button onclick="chatbot.getReply('no9')">No</button><br>
+
++ no8
+- <br>Correct<br>
+^ Should your password be password or 1234?<br>
+^ <button onclick="chatbot.getReply('yes9')">Yes</button>
+^ <button onclick="chatbot.getReply('no9')">No</button><br>
+
+//question 10
+//Is it safe to leave your computer unlocked and unattended in a public place?  
++ yes9
+- <br>Incorrect<br>
+^ Is it safe to leave your computer unlocked and unattended in a public place?  <br>
+^ <button onclick="chatbot.getReply('yes10')">Yes</button>
+^ <button onclick="chatbot.getReply('no10')">No</button><br>
+
++ no9
+- <br>Correct<br>
+^ Is it safe to leave your computer unlocked and unattended in a public place?  <br>
+^ <button onclick="chatbot.getReply('yes10')">Yes</button>
+^ <button onclick="chatbot.getReply('no10')">No</button><br>
+
+
++ yes10
+- <br>Incorrect<call>racc</call>
+
++ no10
+- <br>Correct<call>racc</call>
